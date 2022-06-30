@@ -1,3 +1,3 @@
-module github.com/khuong02/pkg.git
+module github.com/khuong02/pkg
 
 go 1.18
